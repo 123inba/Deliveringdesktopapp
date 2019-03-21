@@ -11,5 +11,10 @@ The shared applications,datas can be secured in VPC services and will be availab
 
 MODULE SPLITUP
 
-1)Building a desktop application-Gayethiri.R.S 2)creating an appstream image-Marry mettilda.S 3)Creating network resources-Inba.M 4)Testing user experience-done by all
+1)Building a desktop application-Gayethiri.R.S 
+2)creating an appstream image-Marry mettilda.S 
+3)Creating network resources-Inba.M
+   Created a network for the desktop application through vpc in AWS services.also created the subnets for the network in 6 regions.
+ 
+4)Testing user experience-done by all
 
