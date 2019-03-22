@@ -9,12 +9,22 @@ Future Enhancements The datas will be more securely shared to browser without an
 
 The shared applications,datas can be secured in VPC services and will be available.
 
-MODULE SPLITUP
+#MODULE SPLITUP
+1)Building a desktop application
+2)Creating an appstream image
+3)Creating network resources
 
+#TASK sPLITUP
 1)Building a desktop application-Gayethiri.R.S 
 2)creating an appstream image-Marry mettilda.S 
 3)Creating network resources-Inba.M
    Created a network for the desktop application through vpc in AWS services.also created the subnets for the network in 6 regions.
  
 4)Testing user experience-done by all
+
+#PENDIND STATUS
+Testing user experience:
+1.Providing access to the user pools.
+2.Getting the notification mail from appstream 2.0 and to start streaming.
+3.setting up of login and providing password.
 
