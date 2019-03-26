@@ -40,5 +40,5 @@ Testing user experience:
 2.Getting the notification mail from appstream 2.0 and to start streaming.
 3.setting up of login and providing password.
 
-# project completion percentage: 80
+# project completion percentage: 95
 
